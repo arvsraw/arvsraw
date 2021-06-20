@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arvsraw
+- 👋 Hi, I’m Arvind
 - 👀 I’m interested in projects that are fun to do.
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on beginners projects.
