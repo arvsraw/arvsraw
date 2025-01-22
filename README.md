@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arvind
 - 👀 I’m interested in projects that are fun to do.
-- 🌱 I’m currently learning Machine Learning and Data Science.
-- 💞️ I’m looking to collaborate on intermediate projects.
+- 🌱 I’m currently learning Spring Boot.
+- 💞️ I’m looking to collaborate on spring boot projects.
 - 📫 How to reach me on email: arvindrawat.1130@gmail.com
